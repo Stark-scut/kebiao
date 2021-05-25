@@ -1,0 +1,11 @@
+课程名称：
+<view class="fontstyle">{{class.name}}</view>
+上课地点：
+<view class="fontstyle">{{class.position}}</view>
+任课老师：
+<view class="fontstyle">{{class.teacher}}</view>
+课程学分：
+<view class="fontstyle">{{class.credit}}</view>
+<button type="primary" bindtap="modify">修改课程信息</button>
+<view></view>
+<button type="primary" bindtap="delete">删除该课程</button>

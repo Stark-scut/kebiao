@@ -1,0 +1,5 @@
+输入账号
+<input bindinput="getAccount" class="input"></input>
+输入密码
+<input bindinput="getPassword" class="input"></input>
+<button bindtap="login" type="primary">登录</button>

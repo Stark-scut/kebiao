@@ -1,0 +1,9 @@
+课程名称：
+<input bindinput="getName"></input>
+上课地点：
+<input bindinput="getPosition"></input>
+任课老师：
+<input bindinput="getTeacher"></input>
+课程学分：
+<input bindinput="getCredit"></input>
+<button bindtap="modify">修改</button>

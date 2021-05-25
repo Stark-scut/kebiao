@@ -1,0 +1,8 @@
+.typ{
+  margin-top:20rpx;
+  border: 10rpx red solid;
+}
+.text{
+  text-align: center;
+  /* 字体居中用align */
+}

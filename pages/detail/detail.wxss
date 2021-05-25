@@ -1,0 +1,7 @@
+.fontstyle{
+  font-family:cursive;
+  /* font-size:small; */
+  font-style:italic;
+  font-weight: bold;
+  background-color: bisque;
+}

@@ -1,0 +1,11 @@
+<!-- 登录 -->
+<view wx:if="{{!success}}">
+<button type="primary" class="typ" bindtap="toLogin">登录</button>
+<button type="primary" class="typ" bindtap="toRegister">注册</button>
+</view>
+<!-- 登录成功 -->
+<view class='text' wx:if="{{success}}">
+  <view>登录成功</view>
+  <view>{{name}}</view>
+  <button bindtap='quit'>退出</button>
+</view>

@@ -1,0 +1,25 @@
+.leftNumber{
+  width:50rpx;
+  height:100rpx;
+  background-color:#d2e6b3;
+  color:#7cba23;
+  border:solid 2rpx black;
+}
+.top{
+  display:flex;
+  margin-left:50rpx;
+}
+.topText{
+  width:100rpx;
+  height:40rpx;
+  background-color:#d2e6b3;
+  color:#7cba23;
+}
+.table{
+  position: absolute; 
+  width:100rpx; 
+  height: 205rpx;
+  border:solid 2rpx black;
+  border-radius:5px;
+  font-size:small
+}
